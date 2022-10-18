@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : Frank's Home
+title               : Frank
 description         : >-
                       Hi, I am Fang (Frank) Sun.<br>
                       <a href="https://github.com/fangfranksun">Github </a>|
@@ -7,7 +7,7 @@ description         : >-
                      # <a href="https://pavan-pk.github.io/projects/">Projects | </a>
                      # <a href="https://github.com/Pavan-pk/resume/blob/main/resume.pdf">Resume | </a>
                     
-baseurl             : "Website_Test"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : FangFrankSun/Website_Test     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
